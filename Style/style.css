@@ -1,0 +1,44 @@
+body {
+  padding: 0px;
+}
+
+div.content {
+  width: 100vh;
+  height: 100vh;
+  float: right;
+  align-content: center;
+}
+
+div#image {
+  background-color: #000f;
+}
+
+div#text {
+  background-color: rgb(85, 88, 147);
+  text-align: right;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  font-size: 300%;
+  font-family: normal normal, sans-serif;
+  margin-bottom: 100px;
+  align-self: start;
+  margin: 10px;
+}
+
+h2 {
+  text-align: right;
+  font-family: Arial, Helvetica;
+  margin-bottom: 40px;
+  font-size: medium;
+}
+
+p#header_text {
+  text-align: center;
+}
+
+.btn {
+  margin-top: 40px;
+}
